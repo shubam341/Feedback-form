@@ -72,7 +72,7 @@ function App() {
         {showFeedbacks && <FeedbackList feedbacks={feedbacks} />}
 
         <footer className="mt-12 text-center text-sm text-gray-500 dark:text-gray-400">
-          <p>Developed by John Doe</p>
+          <p>Developed by Shubam</p>
           <p>© {new Date().getFullYear()} Feedback Collector. All rights reserved.</p>
         </footer>
       </div>
